@@ -1,3 +1,7 @@
+# PerfectScrollbar Hello World in Angular 13
+I always appreciate a working sample when using a npm package.
+Sadly `perfect-scrollbar` doesn't provide one. So here you go, minimal working sample in Angular 13.
+
 # Steps done:
 
 1. `ng new perfect-scrollbar-angular`
